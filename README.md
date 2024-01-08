@@ -6,7 +6,7 @@ This project implements an English auction smart contract where participants can
 
 # Features
 
-- nglish auction functionality
+- English auction functionality
 - ERC721 integration
 - Automatic NFT transfer to the highest bidder
 
